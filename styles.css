@@ -2,3 +2,7 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serifa;
     font-size: larger;
 }
+p{
+    font-size: medium;
+    background-color: blue;
+}
