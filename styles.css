@@ -1,9 +1,20 @@
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serifa;
     font-size: larger;
+    color: teal;
+    background-color: pink;
 }
 p{
     font-size: medium;
-    background-color: blue;
+    background-color: teal;
     color: white;
+}
+
+.btn1{
+    background-color: teal;
+    color: pink;
+}
+.btn2{
+    background-color: pink;
+    color: teal;
 }
